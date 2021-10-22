@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @OMCSB
+
 - 👀 I’m interested in Software Development and Cyber Security
+
 - 🌱 I’m currently learning Python Programming, HTML, CSS
+
 - 💞️ I’m looking to collaborate on Future Web Designs/Softwares
+
 - 📫 How to reach me:
   - Email 1: garethyau@gmail.com
   - Email 2: gglen011003@gmail.com
