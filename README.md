@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OMCSB
 
-- 👀 I’m interested in Software Development and Cyber Security
+- 👀 I’m interested in Software Development, Web Development and Cyber Security
 
 - 🌱 I’m currently learning Python Programming, HTML, CSS
 
