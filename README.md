@@ -7,8 +7,7 @@
 - 💞️ I’m looking to collaborate on Future Web Designs/Softwares
 
 - 📫 How to reach me:
-  - Email 1: garethyau@gmail.com
-  - Email 2: gglen011003@gmail.com
+  - Email 1: gglen011003@gmail.com
   - LinkedIn: https://www.linkedin.com/in/gareth-glendiuz-yauwira011003/
 <!---
 OMCSB/OMCSB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
