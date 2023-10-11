@@ -9,7 +9,7 @@
 </div>
 
 ### 
-## :wrench: Programming Languages
+## :wrench: Programming Languages and Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
