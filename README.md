@@ -47,10 +47,7 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/OMCSB/OMCSB/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
 
@@ -59,3 +56,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OMCSB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=OMCSB&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=OMCSB&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
