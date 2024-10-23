@@ -56,9 +56,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/OMCSB/OMCSB/output/github-snake-dark.svg" alt="Snake animation" />
-
-###
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/657acb015145316d2500b1ff?variant=dark)](https://roadmap.sh)
-
-###
