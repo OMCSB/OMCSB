@@ -55,4 +55,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/OMCSB/OMCSB/output/github-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/OMCSB/OMCSB/output/snake.svg" alt="Snake animation" />
+
+###
