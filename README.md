@@ -1,12 +1,5 @@
 <h2 align="left">Hi 👋! I'm Gareth</h2>
-
-###
-
 <br clear="both">
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OMCSB.OMCSB&"  />
-</div>
 
 ### 
 ## :mailbox: My Socials
