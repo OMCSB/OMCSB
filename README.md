@@ -13,11 +13,3 @@
   </a>
 </div>
 
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/OMCSB/OMCSB/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-###
