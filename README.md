@@ -67,7 +67,6 @@ Passionate about building **scalable web applications**, **secure backend system
 ### 📫 Connect with Me
 
 - Email: *gareth.yauwira@gmail.com*  
-- GitHub: [OMCSB](https://github.com/OMCSB)  
 - Blog / Portfolio: [omcsb.github.io](https://omcsb.github.io)  
 
 ---
