@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I’m Gareth Glendiuz Yauwira (OMCSB)
+# 👋 Hi, I’m Gareth
 
 **Software Engineer | Full-Stack & Backend Developer | Cloud-Native Applications | React · FastAPI · AWS**
 
