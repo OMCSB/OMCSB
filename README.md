@@ -51,8 +51,7 @@ Passionate about building **scalable web applications**, **secure backend system
 
 ### 💼 Projects
 
-- **P2ych3 Malicious URL Detector** — ML / heuristic-based tool for detecting phishing / dangerous URLs  
-- **OMCSB Personal Website** — portfolio / blog site showing projects, writings, experiments  
+- **P2ych3 Malicious URL Detector** — ML tool for detecting phishing / dangerous URLs  
 
 ---
 
